@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/productdeny/static/css/main.421c2f85.chunk.css",
+    "main.js": "/productdeny/static/js/main.17e190fd.chunk.js",
+    "main.js.map": "/productdeny/static/js/main.17e190fd.chunk.js.map",
+    "runtime-main.js": "/productdeny/static/js/runtime-main.d0e63dd6.js",
+    "runtime-main.js.map": "/productdeny/static/js/runtime-main.d0e63dd6.js.map",
+    "static/css/2.818011ed.chunk.css": "/productdeny/static/css/2.818011ed.chunk.css",
+    "static/js/2.7ce07019.chunk.js": "/productdeny/static/js/2.7ce07019.chunk.js",
+    "static/js/2.7ce07019.chunk.js.map": "/productdeny/static/js/2.7ce07019.chunk.js.map",
+    "static/js/3.2ef47af2.chunk.js": "/productdeny/static/js/3.2ef47af2.chunk.js",
+    "static/js/3.2ef47af2.chunk.js.map": "/productdeny/static/js/3.2ef47af2.chunk.js.map",
+    "index.html": "/productdeny/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/productdeny/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.421c2f85.chunk.css.map": "/productdeny/static/css/main.421c2f85.chunk.css.map",
+    "static/js/2.7ce07019.chunk.js.LICENSE.txt": "/productdeny/static/js/2.7ce07019.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0e63dd6.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.7ce07019.chunk.js",
+    "static/css/main.421c2f85.chunk.css",
+    "static/js/main.17e190fd.chunk.js"
+  ]
+}
