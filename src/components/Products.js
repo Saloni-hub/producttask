@@ -1,4 +1,5 @@
 import React from 'react'
+import Footer from './Footer'
 import Navbar from './Navbar'
 
 const Products = () => {
@@ -15,6 +16,7 @@ const Products = () => {
              <img src="https://images.unsplash.com/photo-1614447412838-3f4ebd5c2dc0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjI1fHxwaWN0dXJlJTIwZnJhbWV8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="prod"/>
              <img src="https://images.unsplash.com/photo-1624793801591-6832bd4699e9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjE5fHxwaWN0dXJlJTIwZnJhbWV8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="prod"/>
             </div>
+            <Footer/>
         </div>
     )
 }
