@@ -3,7 +3,7 @@ import './App.css';
 import Home from './components/Home'
 import Login from './components/LgginSignup'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import {BrowserRouter,Link,Switch,Route} from 'react-router-dom'
+import {BrowserRouter,Switch,Route} from 'react-router-dom'
 import Signup from './components/signup';
 import Product from './components/Products';
 function App() { 

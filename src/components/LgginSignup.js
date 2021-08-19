@@ -1,18 +1,9 @@
-import React,{useEffect, useState} from 'react'
+import React from 'react'
 import Navbar from './Navbar'
 import Login from './Login'
-import Signup from './signup'
 import Footer from './Footer'
-import { Route } from 'react-router'
 import { Link } from 'react-router-dom'
 const LgginSignup = () => {
-    const [state ,Setstate] = useState(false)
-     const handleForm = (e) => {
-         e.preventDefault();
-         Setstate({
-             state:!state
-         })
-     }
     return (
         <>
         <div className="login"> 
