@@ -1,6 +1,10 @@
 {
   "homepage": "https://Saloni-hub.github.io/producttask",
   "name": "product",
+<<<<<<< HEAD
+=======
+  "homepage": "https://Saloni-hub.github.io/producttask",
+>>>>>>> 77092ad3662c1962cfeba2bd54ea86f6364c7e5d
   "version": "0.1.0",
   "private": true,
   "dependencies": {
